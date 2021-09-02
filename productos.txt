@@ -1,0 +1,1 @@
+[{"title":"Netflix","price":1343.99,"thumbnail":"http://prueba","id":1},{"title":"Amazon Prime","price":400.25,"thumbnail":"http://prueba","id":2},{"title":"HBO Máx","price":123.45,"thumbnail":"http://prueba","id":3}]
